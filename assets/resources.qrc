@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="bars">
+    <file>mana_bar/mana0.png</file>
+    <file>life_bar/life0.png</file>
+  </qresource>
+</RCC>

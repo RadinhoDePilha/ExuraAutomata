@@ -1,0 +1,6 @@
+opencv-python-headless
+pyautogui
+pillow
+pynput
+pyqt5
+numpy

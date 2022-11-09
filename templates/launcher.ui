@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>118</width>
+    <height>156</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>118</width>
+    <height>156</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>118</width>
+    <height>156</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="bt_autocave">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>80</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Novo 
+ AutoCave</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="bt_autohealer">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>70</y>
+      <width>80</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Novo 
+AutoHealer</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
